@@ -22,6 +22,8 @@ https://s3-us-west-2.amazonaws.com/mrlc/nlcd_2008_impervious_descriptor_l48_2021
 https://s3-us-west-2.amazonaws.com/mrlc/nlcd_2006_impervious_descriptor_l48_20210604.zip
 https://s3-us-west-2.amazonaws.com/mrlc/nlcd_2004_impervious_descriptor_l48_20210604.zip
 https://s3-us-west-2.amazonaws.com/mrlc/nlcd_2001_impervious_descriptor_l48_20210604.zip
+https://s3-us-west-2.amazonaws.com/mrlc/nlcd_2016_treecanopy_2019_08_31.zip
+https://s3-us-west-2.amazonaws.com/mrlc/nlcd_2011_treecanopy_2019_08_31.zip
 https://s3-us-west-2.amazonaws.com/mrlc/NLCD_2016_Land_Cover_AK_20200724.zip
 https://s3-us-west-2.amazonaws.com/mrlc/NLCD_2011_Land_Cover_AK_20200724.zip
 https://s3-us-west-2.amazonaws.com/mrlc/NLCD_2016_Impervious_AK_20200724.zip
@@ -30,3 +32,4 @@ https://s3-us-west-2.amazonaws.com/mrlc/PR_landcover_wimperv_10-28-08_se5.zip
 https://s3-us-west-2.amazonaws.com/mrlc/PR_masked_imperv_10-25-08.zip
 https://s3-us-west-2.amazonaws.com/mrlc/HI_landcover_wimperv_9-30-08_se5.zip
 https://s3-us-west-2.amazonaws.com/mrlc/HI_masked_imperv_9-30-08.zip
+
